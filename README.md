@@ -1,8 +1,8 @@
-```markdown
 # Ki67 Pozitiflik Tespiti
 
-Bu proje, görüntü işleme tekniklerini kullanarak histopatolojik resimlerdeki Ki67 pozitiflik oranını tespit etmek için bir Python scripti sağlar. Proje, Windows ve macOS kullanıcıları için gerekli kurulum adımlarını içerir.
-Dikkat QuPath gibi iyi sonuç vermez. Ancak birkaç saniye içinde onlarca resmi inceleyip görşel ve yazı olarak output verir. Arka plan beyaz, 200x veya 400x çekim yapın.
+Bu proje, görüntü işleme tekniklerini kullanarak histopatolojik resimlerdeki Ki67 pozitiflik oranını tespit etmek için bir Python scripti sağlar. Proje, Windows ve macOS kullanıcıları için gerekli kurulum adımlarını içerir. Arka plan beyaz, 200x veya 400x çekim yapın.
+Dikkat QuPath gibi iyi sonuç vermez. Ancak birkaç saniye içinde onlarca resmi inceleyip görşel ve yazı olarak output verir. 
+
 ## Özellikler
 
 - JPEG, JPG, PNG formatlarındaki görüntüleri destekler.
@@ -29,6 +29,7 @@ Dikkat QuPath gibi iyi sonuç vermez. Ancak birkaç saniye içinde onlarca resmi
    ```bash
    pip install opencv-python numpy Pillow
    ```
+
 
 ### macOS
 
