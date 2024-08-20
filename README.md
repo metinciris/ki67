@@ -64,7 +64,7 @@ Dikkat QuPath gibi iyi sonuç vermez. Ancak birkaç saniye içinde onlarca resmi
    Windows kullanıcıları `python` komutunu kullanabilir:
 
    ```bash
-   python dogru.py
+   python yuzdever.py
    ```
 
 2. **Sonuçları İnceleyin:**
