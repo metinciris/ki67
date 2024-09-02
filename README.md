@@ -77,13 +77,3 @@ Dikkat QuPath gibi iyi sonuç vermez. Ancak birkaç saniye içinde onlarca resmi
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-```
-
-### README Dosyasının Özeti:
-- **Projenin Amacı:** Ki67 pozitiflik oranını hesaplayan bir Python scripti.
-- **Kurulum Talimatları:** Windows ve macOS için Python ve gerekli kütüphanelerin kurulumu.
-- **Kullanım:** Script'in nasıl çalıştırılacağı ve sonuçların nasıl görüntüleneceği.
-- **Örnek Resimler:** Demo ve demo çıktısı için bağlantılar.
-- **Lisans:** Proje MIT Lisansı altında lisanslanmıştır.
-
-Bu dosyayı GitHub reposuna ekleyebilir ve gerektiğinde daha fazla bilgi ekleyebilirsiniz. Eğer eklemek istediğiniz başka bir şey varsa, lütfen bildirin!
